@@ -5,3 +5,4 @@ More text being added
 Adding a remote change to practice pulling remote changes to my local git repository
 Adding a second remote change
 Adding a third remote change
+Changing a text 
